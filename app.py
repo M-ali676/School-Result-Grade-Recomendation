@@ -68,3 +68,5 @@ while student_count <= 5:
     print(f"\n Result for {name} \nPercentage: {perc} \nGrade: {grade} \nRemarks: {remark} \nSpecial: {special}")
         
     student_count = student_count+1 #incrementing while loop
+    print("\n-----------------------------------\n")
+    
